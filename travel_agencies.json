@@ -1,0 +1,146 @@
+[
+    {
+      "name": "GT Holidays Hyderabad",
+      "city": "Hyderabad",
+      "rating": 4.7,
+      "contact": "https://www.gtholidays.in/hyderabad/",
+      "packages": ["Domestic", "International", "Europe"]
+    },
+    {
+      "name": "RL Tours & Travels",
+      "city": "Hyderabad",
+      "rating": 4.5,
+      "contact": "https://rltours.in/",
+      "packages": ["Custom Europe", "Asia", "Domestic"]
+    },
+    {
+      "name": "IMAD Travel",
+      "city": "Hyderabad",
+      "rating": null,
+      "contact": "https://imadtravel.com/",
+      "packages": ["Luxury International Packages", "Umrah", "Europe"]
+    },
+    {
+      "name": "StarEdge Holidays",
+      "city": "Hyderabad",
+      "rating": 4.6,
+      "contact": null,
+      "packages": ["International Packages", "Group Tours"]
+    },
+    {
+      "name": "Thrillophilia",
+      "city": "Hyderabad",
+      "rating": null,
+      "contact": "https://www.thrillophilia.com",
+      "packages": ["Adventure Experiences", "Multi-day Tours", "International Packages"]
+    },
+  
+    {
+      "name": "GT Holidays Chennai",
+      "city": "Chennai",
+      "rating": null,
+      "contact": "https://www.gtholidays.in/chennai/",
+      "packages": ["International", "Visa & Ticketing"]
+    },
+    {
+      "name": "Madras Travels & Tours",
+      "city": "Chennai",
+      "rating": null,
+      "contact": "https://madrastravels.in/",
+      "packages": ["Domestic & International Tours"]
+    },
+    {
+      "name": "Vetri Tours n Travels",
+      "city": "Chennai",
+      "rating": null,
+      "contact": "https://www.vetritoursntravels.com/",
+      "packages": ["Custom Packages", "International Tours"]
+    },
+    {
+      "name": "Chennai Tours & Travels",
+      "city": "Chennai",
+      "rating": null,
+      "contact": null,
+      "packages": ["Domestic & India Packages"]
+    },
+    {
+      "name": "Akshaya India Tours & Travels",
+      "city": "Chennai",
+      "rating": null,
+      "contact": null,
+      "packages": ["International & Cruise Tours"]
+    },
+  
+    {
+      "name": "Thomas Cook India",
+      "city": "Delhi",
+      "rating": 4.4,
+      "contact": "https://www.thomascook.in/",
+      "packages": ["Europe", "Visa support", "Forex services"]
+    },
+    {
+      "name": "SOTC Travel",
+      "city": "Delhi",
+      "rating": 4.3,
+      "contact": "https://www.sotc.in/",
+      "packages": ["International Packages", "Corporate Tours"]
+    },
+    {
+      "name": "Adventures Overland",
+      "city": "Delhi",
+      "rating": null,
+      "contact": null,
+      "packages": ["Cross-border Road Trips", "Europe Supercar Tours"]
+    },
+    {
+      "name": "Planet Abled",
+      "city": "Delhi",
+      "rating": null,
+      "contact": null,
+      "packages": ["Accessible Travel for Elderly & Disabled"]
+    },
+    {
+      "name": "Swan Tours",
+      "city": "Delhi",
+      "rating": null,
+      "contact": null,
+      "packages": ["Custom International Packages", "India Tours"]
+    },
+  
+    {
+      "name": "Vibrant Holidays",
+      "city": "Ahmedabad",
+      "rating": null,
+      "contact": null,
+      "packages": ["Europe", "Bhutan", "Domestic Packages"]
+    },
+    {
+      "name": "Shree Swaminarayan Tourism",
+      "city": "Ahmedabad",
+      "rating": null,
+      "contact": null,
+      "packages": ["Custom Domestic & Intl. Packages"]
+    },
+    {
+      "name": "Best Voyage Pvt Ltd",
+      "city": "Ahmedabad",
+      "rating": null,
+      "contact": "https://www.bestvoyage.in/",
+      "packages": ["Europe Group Tours", "Cruises", "Adventure Tours"]
+    },
+    {
+      "name": "Parul Tours & Travels",
+      "city": "Ahmedabad",
+      "rating": null,
+      "contact": "https://parultoursandtravels.com/",
+      "packages": ["International Packages", "Domestic Tours"]
+    },
+    {
+      "name": "Akhil Bharat Tours",
+      "city": "Ahmedabad",
+      "rating": null,
+      "contact": "https://akhilbharat.in/",
+      "packages": ["Affordable Intl. & Domestic Packages"]
+    }
+  ]
+  
