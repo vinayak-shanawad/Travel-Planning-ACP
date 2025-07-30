@@ -110,10 +110,8 @@ Keep these servers running in separate terminals.
 ### Running Notebooks
 
 Execute the Jupyter notebooks to follow the article workflows:
-1. Launch Jupyter Notebook:
-   ```bash
-   uv run jupyter notebook
-   ```
+1. Launch Jupyter Notebook.
+
 2. Open the relevant notebook:
    - Part 1: `1-CrewAI-RAG-Agent.ipynb` and `2-Wrap-RAG-Agent-ino-ACP.ipynb`.
    - Part 2: `3-Wrap-SmolAgent-and-MCP-into-ACP.ipynb`.
